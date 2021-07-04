@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "title": "Naruto",
+      "body": "Updated shit ipsum dolor sit amet, consectetur adipiscing elit. Cras a posuere nibh, quis porttitor est. Quisque eu metus at augue scelerisque lobortis. In convallis rutrum ligula, ac vulputate tortor lobortis in. Sed ac ligula vulputate metus condimentum congue ut vel mauris. Etiam eu faucibus risus. Etiam porta blandit bibendum. Aenean imperdiet lorem sit amet ex ultricies, a egestas augue rhoncus. Mauris a facilisis sem. Sed nulla arcu, lacinia eu lectus a, laoreet dignissim est. Fusce congue mauris sit amet neque feugiat mattis. Sed placerat vitae odio eu vehicula. Etiam accumsan diam ut massa pretium efficitur id sed purus. Nam tempor elit nunc, vel finibus elit tempus in.",
+      "author": "mooki",
+      "likes": 1,
+      "dislikes": 4,
+      "id": 3
+    },
+    {
+      "title": "Anime Rock",
+      "body": "Creation of anime is a miracle. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a posuere nibh, quis porttitor est. Quisque eu metus at augue scelerisque lobortis. In convallis rutrum ligula, ac vulputate tortor lobortis in. Sed ac ligula vulputate metus condimentum congue ut vel mauris. Etiam eu faucibus risus. Etiam porta blandit bibendum. Aenean imperdiet lorem sit amet ex ultricies, a egestas augue rhoncus. Mauris a facilisis sem. Sed nulla arcu, lacinia eu lectus a, laoreet dignissim est. Fusce congue mauris sit amet neque feugiat mattis. Sed placerat vitae odio eu vehicula.",
+      "author": "vidushi",
+      "likes": 4,
+      "dislikes": 1,
+      "id": 4
+    },
+    {
+      "title": "Attack On Titan",
+      "body": "Cool Shit Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a posuere nibh, quis porttitor est. Quisque eu metus at augue scelerisque lobortis. In convallis rutrum ligula, ac vulputate tortor lobortis in. Sed ac ligula vulputate metus condimentum congue ut vel mauris. Etiam eu faucibus risus. Etiam porta blandit bibendum. Aenean imperdiet lorem sit amet ex ultricies, a egestas augue rhoncus. Mauris a facilisis sem. Sed nulla arcu, lacinia eu lectus a, laoreet dignissim est. Fusce congue mauris sit amet neque feugiat mattis. Sed placerat vitae odio eu vehicula.",
+      "author": "levi",
+      "likes": 14,
+      "dislikes": 0,
+      "id": 5
+    },
+    {
+      "title": "Loki",
+      "body": "Some cool multiverse shit Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte.",
+      "author": "thor",
+      "likes": 4,
+      "dislikes": 1,
+      "id": 6
+    }
+  ]
+}
